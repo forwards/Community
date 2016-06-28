@@ -3,7 +3,7 @@ The proposal is still very fluid, and feel free to offer alternative suggestions
 #### Audience
 
 * The intended audience is Career Young Statisticians and Data Scientists.
-* RSVP instructions to follow the "Coding Grace" approach in Dublin: only a female can RSVP, but she can 
+* RSVP protocol to follow the "Coding Grace" approach in Dublin: only a female can RSVP, but she can 
 bring a male guest. 
 * The female RSVP must be present for the Male guest to be allowed in.
 
