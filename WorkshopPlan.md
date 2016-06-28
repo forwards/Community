@@ -15,9 +15,9 @@ bring a male guest.
 
 
 #### The Workshop comprises
-1) Quick Introduction to R (1.5 hours)
-2) Dplyr (2 hours - and really nail it down really well)
-3) ggplot (1 Hour - get the hang of the syntax)
+1. Quick Introduction to R (1.5 hours)
+2. dplyr (2 hours - and really nail it down really well)
+3. ggplot (1 Hour - get the hang of the syntax)
 
 To allow for exercise time, one to one questions and mentoring, give ourselves 6 hours to get throught it.
 
