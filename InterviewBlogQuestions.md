@@ -1,4 +1,6 @@
 
+### Peadar Coyle's Questions
+
 1. What project have you worked on do you wish you could go back to, and do better?
 
 2. What advice do you have to younger analytics professionals and in particular PhD students in the Sciences?
@@ -13,3 +15,6 @@
 
 7. You spent sometime as a Consultant in Data Analytics. How did you manage cultural challenges, dealing with stakeholders and executives? What advice do you have for new starters about this?
 
+### Example
+
+https://peadarcoyle.wordpress.com/2015/08/02/interview-with-a-data-scientist-hadley-wickham/
