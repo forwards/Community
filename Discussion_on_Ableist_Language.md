@@ -1,5 +1,8 @@
 ## Discussion on Ableist Language
 
+DRAFT
+
+
 #### Motivation
 
 There was a discussion in a Data Slack channel, where one member ( member "A") admonished another (prominent) member ( member "B") about the use of the word "crazy" to describe a model in a tweet.
@@ -15,7 +18,7 @@ https://github.com/ghc-proposals/ghc-proposals/blob/master/GRC.rst
 
 #### Questions on Context
 
-Member B contended the use of te
+Member B contended the use of the use of the word "crazy" was not objectionable because it was not associated with any person.
 
 #### Scope of the Guidelines
 
@@ -24,4 +27,4 @@ Where should guidelines have scope?
 * Official Communication Channels
 
 #### Other Remarks
-* Through the use of icons, other members of the forum expressed agreement and solidarity with Member B. While it is reasonable to agree with Member B's interpretation, there is a reasonable concern that the 
+* Through the use of icons, other members of the forum expressed agreement and solidarity with Member B. While it is reasonable to agree with Member B's interpretation, there is a reasonable concern that the it projects a negative signal to those with mental health issues.
