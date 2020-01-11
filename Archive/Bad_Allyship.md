@@ -1,13 +1,14 @@
 
 DRAFT
 
+CONTENT REMOVED THAT PROVIDES CONTEXT TO REMAINING TEXT
+
 #### The "Good Men" Speech
 
 There was a very important speech made at an awards ceremony - calling out "Good Men". 
 https://twitter.com/melsil/status/1070396931631996929
 
-The context is seemingly the entertainment industry, but I reckon it is even more important in the context of Tech Communities, and the integrity of 
-disciplinary procedures. 
+The context is seemingly the entertainment industry, but I reckon it is even more important in the context of Tech Communities, and the integrity of disciplinary procedures. 
 
 #### Diminishing Code of Conduct procedures as Kangaroo courts
 
