@@ -1,9 +1,12 @@
 Community Participation Survey
 ======================================
 
-Online surve to be distributed through particpating R community groups.
+* This would be an interesting research question to resurrect.
+* Online survey to be distributed through particpating R community groups.
 
-1. Gender            [ Male | Female | Prefer Not To Answer ]
+#### Example Questions
+
+1. Gender            [ Male | Female | ..... | Prefer Not To Answer ]  (!! - better format required here)
 
 2. Age Group         [ 18-25 | 25-34 | 35-44 | 45-54 | 55 or older | Prefer Not To Answer ]
 
@@ -22,3 +25,6 @@ Online surve to be distributed through particpating R community groups.
 
 8. Is Childcare a consideration in  your decision to attend or not attend R community events held on **Weekend**.          
                       
+9. Do you take part in online community events (i.e. Tidy Tuesday)
+
+10. Which Social Media platforms to do you use
