@@ -14,4 +14,4 @@ The format can follow the format used for UseR! 2019.
 
 (*Correctly, this is outside of the scope of the Forwards Taskforce. However the main organizer is happy for us to prepare projects and initiatives for Rainbow R*)
 
-* This needs more support and more advertising, as there is low engagement and awareness. (personal opinion, based on observation and lack of Tweets from the Twitter account)
+* This needs more support and more advertising, as there is low engagement and awareness. (personal opinion, based on observation and lack of Tweets from the Twitter account. Looks like the account Tweets a few times a year around R conferences)
