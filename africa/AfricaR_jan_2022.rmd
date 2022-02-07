@@ -1,0 +1,64 @@
+# Africa R & R Forwards meeting 2022-01-21
+
+## Attendance
+
+Present: Heather Turner, gwynn sturdevant, Dennis Irorere, Folajimi Aroleye, Kevin O'Brien, Shel Kariuki, Mohammed Ali, Vebash Naidoo, Richard Ngamita, Timothy Ogunleye, Nelda Limilimi, Olalekan Obisesan, 
+
+Absent: 
+    
+Agenda: 
+    
+- Introductions: 
+    - Forwards: gwynn (administrator), Heather (chair), Richard and Kevin (Community co-leads). Richard will be main liaison between Forwards and AfricaR going forwards, but we are all here to support!
+    - AfricaR: Shelmith (Nairobi, Kenya), Folajimi (Lagos, Nigeria), Vebash (Johannesburg, South Africa), Dennis (Abujah (?), Nigeria), Ahmadou (Dakar, Senegal), Anicet, Mohammed (Egypt), Timothy (Nigeria), Nelda (Kampala, Uganda)
+    
+ - Twitter
+     - using Twitter Spaces (https://help.twitter.com/en/using-twitter/spaces) or Twitter community (https://help.twitter.com/en/using-twitter/communities).
+
+- Meetups    
+     Vebash - RLadies Joburg - meetings on zoom on the RLadies zoom also shared on youtube
+What about internet bandwidth? - zoom is fine - most people keep your video off
+Vebash Comment: I am unsure about people who use zoom and have a very interesting meetup where they live stream - unsure if the zoom platform works well there ... our user group hardly ever gets to the 100 people limit. Hard to find African speakers
+Ahmadou - started in 2013, difficult to balance stuff - mostly drove community his self and now does not have time. Tips for best practices on running a group. How to increase the number of leaders in his group 
+- possibility of joint meetups? E.g. Senegal + Cote D'Ivoire +/- other French-speaking groups
+- KOB: we do have some contacts from useR! last year, maybe we can share in case people not already in contact. (KOB: Re: Burkina Faso - The contact is Bry Sylla)
+KOB Question: is meetup.com a useful platform going forward? Would a LinkedIn company page be useful? (fairly useful for Why R?)
+KOB Question: Develop a Lusophone component to the Africa R community? we can search out contacts in Angola, Mozambique, GB, ST&P and CPV
+KOB: Operational Matter - Pre-recording talks with Zoom and OBS - can edit with VideoPad (free software) - This worked for the R-ladies Remote event last year
+KOB: proposing a strategy to highlight the role the R plays in pursuit of SDGs, and work done in Africa by the local R community. This would potential attract logistical/operational/financial support from NGOs, Governments etc. Really good content for talks.
+KOB: bespoke Africa R youtube channel - host webinars like Why R? (or host stuff on Why R? YT channel - benefit from aggregation effect)
+KOB: discuss with Accra R User Group on a retrospective of their recent (January 2022) webinar series - Francis Mensah & Samuel Tandoh. They seems to have good links with the Ghanaian diaspora.
+KOB: Idea to develop a Speaker Directory like the R-Ladies Directory
+shel - internet not an issue - time is the issue - NairobiR new employment, burnout, not responding to emails - after AfricaR - exhausted - RLadies - 4 organizers - not enough time - every two months meetup - joint meetups with NairobiR, not time to active in both - low turnout - which is difficult - a lot of effort for only a few people - THE ISSUE IS TIME - Need to breath and internalize what they learned - 10 meetups try to get speakers lined up a couple of months in advance. Talks and workshops. AfricaR conference - important to follow through being a team player is important, ready to step down as AfricaR chair. Perhaps someone with more time can lead this group. 
+
+Richard - manage expectations, so that we can increase longevity. Setting achievable goals as leaders. Joint AfricaR meetup: maybe 2 times a year.
+
+Nelda - no meetup in 3 years - Kampala - finding speakers is hard - Mark - content is hard
+
+Tim - Academic - service is part of your contribution to knowledge - list coordinate themselves - combining groups
+
+Olalekan Obisesan - Involved in R since 2008 - university lecturer (Ibadan, Nigeria)
+- Many RUGs across Nigeria, so a lot of potential to help spread R across Africa
+
+
+AfricaR community
+ - How to communicate across community?
+ - How to organize as leaders/as a network? (Maintaining africar.org etc)
+ 
+Funding
+- HT: Some funding (~$1000) available from useR! 2021 proceeds that could go to AfricaR project, what ideas to people have? VN: Is this enough for an online conference for AfricaR? HT: not on the scale of useR!, but maybe on a small scale. Perhaps Shelmith can let us know the costs of running the satRday to give an idea. We could get some additional funding from the R Consortium and possibly elsewhere for an online conference.
+
+     
+ACTIONS
+ - Richard and Vebash (+ others?) to meet and discuss best practices for using Zoom. 1-pager that can be shared.
+ - Kevin and Heather to share contacts from useR! (I think Anicet already has access actually)
+- Directory of RUG leader contacts (how best to share?) https://docs.google.com/spreadsheets/d/1w2ITcYW3Z3FuPCocaIwXpYfa4PjqR5O0mTsSBclx0N0/edit?usp=sharing
+- Meet again: 25 February, same time
+- Share detail of AsiaR panel on organizing regional community.
+- Other people to invite: Mark Okello - Uganda
+Accra R user group
+Francis Mensah & Samuel Tandoh
+The R-Ladies from Tunis: tunis@rladies.org - done
+- Olalekan - invite others RUG organizers from other Nigeria
+- Olalekan - would like to organize an AfricaR conference
+- Willing to work and push each other
