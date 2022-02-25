@@ -52,7 +52,7 @@ Funding
 ACTIONS
  - Richard and Vebash (+ others?) to meet and discuss best practices for using Zoom. 1-pager that can be shared.
  - Kevin and Heather to share contacts from useR! (I think Anicet already has access actually)
-- Directory of RUG leader contacts (how best to share?) https://docs.google.com/spreadsheets/d/1w2ITcYW3Z3FuPCocaIwXpYfa4PjqR5O0mTsSBclx0N0/edit?usp=sharing
+- Directory of RUG leader contacts (how best to share?)
 - Meet again: 25 February, same time
 - Share detail of AsiaR panel on organizing regional community.
 - Other people to invite: Mark Okello - Uganda
