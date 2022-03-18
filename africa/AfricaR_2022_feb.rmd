@@ -1,1 +1,41 @@
+# Africa R & R Forwards meeting 2022-02-25
 
+## Attendance
+
+Present:  gwynn sturdevant, Heather Turner, Kevin O'Brien, Folajimi Aroloye, Shelmith Kariuki, Ezekiel Ogundepo, Timothy Ogunleye , Obisesan Olalekan
+
+*Please add my email gbganalyst@gmail.com 
+so that I can be receiving email for any R meetings. I am the cofounder of IbadanR (Nigeria)
+
+Apologies: Richard Ngamita
+
+- satRdays: how to schedule so they don't clash with each other/other conferences
+     - comes from discussions with R Consortium
+     - important for sponsors
+- useR! 2022 is June 20-23
+
+SatRdays - how is it being run on a practicle basis so far? How are they scheduled in relation to each other? We should have enough space between each conference. Pick a year in advance and pick dates carefully. Proposal to do Francophone SatRdays - now Ivory Coast SatRdays - not in early July on top of useR -- 20 - 23 June --- be more strigent about the process of getting the dates, having 2 or 3 per year. Francophone, Haiti, SatRdays Nigeria. How to manage the calendar better? Github SatRday - you can only book one day, impossible, but organizers are not following this system.
+
+See https://github.com/satRdays/eventscalendar, also #satrdays-chat on 
+
+Meeting time? It is late on Friday for people in Africa, may not be best time. Perhaps do a poll for next meeting. Next meeting will be on Saturday 26 March
+
+African R conference - reservations - Africans are not actively attending virtual conferences. AfricaR meeting bridge between Africa and the rest of world. Not sure that we will get good attendance. Prior to increase the awareness of R in Africa. 50 - 40 people from Kenya at the last one. Are people interested in conferences to travel or for the content. Trying to get consensus see what is hapenning in other communities in Africa, huge turnout of people from Nigeria. Count the cost, plan everything. LatinR community - first conference (2018) only had 50 people, 2021 1000 people attended. Shelmith can support if the decision is to have another one. Lots of people from Nigeria at next conference. Last 4 useR conferences, lots of Nigerians, 4 coordinaters on this call. Wanting to reach out to rest of Africa. See who spoke and presented and see if we can connect them. Perhaps we could connect with useR! 2022 African participants. 
+
+You can see numbers for useR! 2021 here: https://bit.ly/infoboard-gsod21 Nigeria: 39, Ethiopia: 25, S. Africa: 26, Kenya: 21. But we did a lot of working reaching out to individuals.
+
+useR! 2022: could we collect permission to be listed in participant list and potentially be contacted about other R conferences.
+
+Also important to encourage people from Africa to make themselves visible and contactable, e.g. through personal website, GitHub, Twitter, LinkedIn
+
+Leverage Meetup platform, people that have already signed up to RUGs. Can ask Meetup leaders to share message with their members.
+
+Get reps from each country to help identify relevant people to contact in their country.
+
+Use a Google Form to collect RUG leader details.
+
+Create AfricaR-wide WhatsApp group.
+
+Havard program for undergraduates (deadline March 15): https://www.aspireleaders.org/
+
+Next meeting, send an email of reminder along with agenda.
