@@ -1,0 +1,63 @@
+# Africa R & R Forwards meeting 2022-03-26
+
+## Attendance
+
+Present:  gwynn, heather, tim, Ezekiel, richard, kevin
+Apologies: Obisesan, Shelmith will be late
+    
+ 
+Agenda:   
+Introductions: 
+ 
+ - KO: A lot of activity today/yesterday in Africa R User Groups/R-Ladies, so people may have forgotten/be too busy.  
+    
+Quick updates:     
+- Next meeting, send an email of reminder along with agenda.
+- !!!!!!!!!@gmail.com - has been added to contacts
+- useR! 2022: asked about collecting consent from participants to inform them about AfricaR events/Africa RUGs. They are going to do this. Question will be "Would you like to be contacted about future global and community events?"
+        
+Old business:
+- meeting time - Anelda, evenings and weekends no good - perhaps 
+    - maybe alternate between weekends and weekdays? daytime and evening? weekday during the day?  
+    - WhatsApp group - Tim and Ezekiel will share meeting information with other people in Nigeria - coordinating member group
+               - Poll - make a poll - 
+- Google Form to collect RUG leader details. - https://docs.google.com/spreadsheets/d/1w2ITcYW3Z3FuPCocaIwXpYfa4PjqR5O0mTsSBclx0N0/edit#gid=0
+       - Ezekiel has sent to Nigeria WhatsApp group
+       - Still many RUG/R-Ladies groups not added (I added a few countries to the list where I know there are groups).  Contacts for R-Ladies groups are here: https://github.com/rladies/starter-kit/blob/master/Current-Chapters.csv.
+      - Get reps from each country to help identify relevant people to contact in their country.
+- Create AfricaR-wide WhatsApp group, leaders in AfricaR and RLadies in Africa
+    - Mailing list?
+    - Privacy concerns. Could be better with Twitter community, this also allows discussion.
+               - WhatsApp group - Shelmith has some numbers, but perhaps sharing numbers publicly on google sheet has privacy concerns - sending an official email from RForwards with link to join WhatsApp group so that they can join.
+            - 
+ - Richard and Vebash (+ others?) to meet and discuss best practices for using Zoom. 1-pager that can be shared.
+- Share detail of AsiaR panel on organizing regional community.
+      - Details of panel, including slides: https://github.com/AsiaR-community/2022-inclusive_communities
+     - HackMD with questions: https://hackmd.io/D0xGLmnlQcuUaJFP7Ai8FA
+     - Audio will hopefully follow (problem with video recording)
+
+What are our aims
+- work together as a community
+- people would like to be associated with AfricaR
+
+New business:
+    Mission statement https://africa-r.org/
+    Structure:
+RLadies has a board - unelected works in NYC
+RForwards has teams - nice structure
+AsiaR - giant useR! 2021 and started to spread the word across the countries
+- slack space
+- Yani and RLadies East Lansing organizers involved.
+    Decide a plan of action, e.g. 1 quick win, 1 longer term goal.
+    2020 priorities    
+Write governing documents (mission statement, CoC)
+Rotating curator Twitter account
+Tutorials in French
+Website (events calendar, blog)
+Package(s) to address African needs, e.g. NLP package that supports Arabic, Swahili, etc.
+Ideas from last time
+LinkedIn company page
+Develop a Lusophone component to the Africa R community
+Africa R youtube channel
+AfricaR Speaker Directory
+Joint AfricaR meetup: maybe 2 times a year.
